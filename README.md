@@ -1,1 +1,1 @@
-# Odev3_G-r-nt-_isleme
+# Odev3_Goruntu_isleme
